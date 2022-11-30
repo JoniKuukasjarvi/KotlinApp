@@ -14,9 +14,12 @@ and then try running it again.
 
 ![image](https://user-images.githubusercontent.com/70267456/204774650-22637330-2751-443d-9359-92b0ae251663.png)
 
-5.Register or Log in with following credentials:
+5.Log in with following credentials:
   Username: test@test.com
   Password: password
+  
+  (30.11.2022 I noticed that Google Firebase quit supporting creation of new accounts for this application. I am sorry for the inconvenience that this may cause.)
+  
   
 The following view should look like this:
 
@@ -27,5 +30,10 @@ Tabbing onto the next view looks like this:
 ![image](https://user-images.githubusercontent.com/70267456/204775389-162e732f-424b-410c-a189-a1ae91374236.png)
 
 From this "Mobile Development Project"-course I got 2/5 as my grade since the visual bug is there.
+
+![image](https://user-images.githubusercontent.com/70267456/204791857-56c4ec2b-1931-4413-a73f-4e7ba6d585f5.png)
+![image](https://user-images.githubusercontent.com/70267456/204791964-fa987a59-ed88-4950-afbb-b5723d9b1500.png)
+
+
 
 
